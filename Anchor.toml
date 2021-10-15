@@ -1,0 +1,8 @@
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[workspace]
+members = [
+  "programs/wowswap"
+]
